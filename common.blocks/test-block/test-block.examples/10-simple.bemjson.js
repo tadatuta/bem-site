@@ -12,7 +12,7 @@
         },
         {
             block: 'yahoo',
-            content: 'life is great'
+            content: 'life is great2'
         },
         { block: 'i-jquery', mods: { version: '1.8.3' } },
         { elem: 'js', url: '_10-simple.js' }
