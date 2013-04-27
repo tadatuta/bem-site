@@ -1,0 +1,10 @@
+block test-block {
+
+    js: true
+
+    content: {
+        elem: 'inner',
+        content: this.ctx.content
+    }
+
+}

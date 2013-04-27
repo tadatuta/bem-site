@@ -1,0 +1,9 @@
+{
+    "expr"    : true,
+    "undef"   : true,
+    "predef"  : ["BEM", "BEMHTML", "Lego"],
+    "browser" : true,
+    "jquery"  : true,
+    "boss"    : true,
+    "sub"     : true
+}
