@@ -10,10 +10,6 @@
             block: 'test-block',
             content: 'Test block content'
         },
-        {
-            block: 'yahoo',
-            content: 'life is great3'
-        },
         { block: 'i-jquery', mods: { version: '1.8.3' } },
         { elem: 'js', url: '_10-simple.js' }
     ]
